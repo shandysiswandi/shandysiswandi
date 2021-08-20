@@ -4,7 +4,7 @@
 
 <p>
   <em>
-    Software Engineer at <a href="https://www.bengkelbaik.id">Bengkelbaik</a>
+    Software Engineer at <a href="https://www.jojonomic.id">Jojonomic</a>
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   </em>
 </p>
