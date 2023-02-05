@@ -2,7 +2,7 @@
 
 <p>
   <em>
-    Software Engineer at <a href="www.bluebirdgroup.com">Bluebird</a>
+    Software Engineer at <a href="www.bluebirdgroup.com">Virgo</a>
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   </em>
 </p>
