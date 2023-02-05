@@ -2,12 +2,11 @@
 
 <p>
   <em>
-    Software Engineer at <a href="www.bluebirdgroup.com">Virgo</a>
+    Software Engineer at <a href="https://virgoku.id/">Virgo</a>
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   </em>
 </p>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/shandy_siswandi?label=Follow) 
 [![Linkedin: shandysiswandi](https://img.shields.io/badge/-shandysiswandi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shandy-siswandi-33b901180/)](https://www.linkedin.com/in/shandy-siswandi-33b901180/) 
 ![GitHub followers](https://img.shields.io/github/followers/shandysiswandi?label=Follow&style=social)![](https://visitor-badge.glitch.me/badge?page_id=shandysiswandi)
 
