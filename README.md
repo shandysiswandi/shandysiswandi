@@ -30,7 +30,7 @@ const shandySiswandi = {
             go: ["All About Go"],
             rust: ["All about Rust"]
         },
-        devOps: ["Docker", "Nginx", "Traefik", Istio, "Kubernetes (k8s)", "Helm"],
+        devOps: ["Docker", "Nginx", "Traefik", "Istio", "Kubernetes (k8s)", "Helm"],
         databases: ["MongoDB", "MySQL", "SQLite", "PostgreSQL", "Redis"],
         cloud: ["AWS", "GCP"]
     },
