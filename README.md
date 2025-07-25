@@ -15,22 +15,23 @@
 ```javascript
 const shandySiswandi = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Go", "PHP"],
-    askMeAbout: ["backend engineer"],
+    code: ["Javascript", "Typescript", "Go", "PHP", "Rust", "Python],
+    askMeAbout: ["Backend Engineer", "Full Stack Engineer"],
     technologies: {
-        mobileApp: ["Android App", "Java", "Kotlin"],
+        mobileApp: ["Android App", "Java", "Kotlin", "Flutter"],
         frontEnd: {
-            js: ["React", "Next JS"],
+            js: ["ReactJS", "NextJS", "Svelte", "SvelteKit"],
             css: ["tailwind", "bootstrap"]
         },
         backEnd: {
-            js: ["Node JS", "Express JS", "Nest JS"],
-            ts: ["Deno", "Oak", "Nest JS"],
+            js: ["NodeJS", "Express JS", "NestJS"],
+            ts: ["Deno", "Oak", "NestJS"],
             php: ["Laravel", "CodeIgniter"],
-            go: ["All About Go"]
+            go: ["All About Go"],
+            rust: ["All about Rust"]
         },
-        devOps: ["Docker", "Nginx", "Traefik", "Kubernetes (k8s)"],
-        databases: ["Mongo", "MySQL", "SQLite", "PostgreSQL", "Redis"],
+        devOps: ["Docker", "Nginx", "Traefik", Istio, "Kubernetes (k8s)", "Helm"],
+        databases: ["MongoDB", "MySQL", "SQLite", "PostgreSQL", "Redis"],
         cloud: ["AWS", "GCP"]
     },
     architecture: ["Clean Code", "Hexagonal Architecture", "Onion Architecture", "Microservice"],
